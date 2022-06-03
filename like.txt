@@ -1,3 +1,5 @@
 ﻿githubの練習をしていきます
 基本的なワークフローを学習します
 頑張ります
+git add
+git commit
