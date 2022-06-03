@@ -3,3 +3,5 @@
 頑張ります
 git add
 git commit
+git rm
+git diff
